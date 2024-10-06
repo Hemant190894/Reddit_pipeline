@@ -19,7 +19,7 @@
 
 # Architecture
 
-![Reddit_dataengineering](https://github.com/user-attachments/assets/03943ec4-8ccc-4dee-a85d-e3d4fbe67bf2)
+![Reddit_dataengineering](https://github.com/Hemant190894/Reddit_pipeline/blob/main/assets/Reddit_dataengineering.png)
 
 1. Reddit API: Source of the data.
 2. Apache Airflow & Celery: Orchestrates the ETL process and manages task distribution.
